@@ -1,0 +1,38 @@
+[
+  {
+    "flag":"",
+    "img":"img/banner_nav/shouhuan.png",
+    "name":"小米手环3",
+    "price":"169元"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/luyouqi.png",
+    "name":"小米路由器4",
+    "price":"199元"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/xiaomixiaoaiai.png",
+    "name":"小米小爱音箱mini",
+    "price":"169元"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/toiuyingyi.png",
+    "name":"米家投影仪",
+    "price":"3999元"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/VR.png",
+    "name":"小米VR 一体机",
+    "price":"1499元"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/shexiangji.png",
+    "name":"小米米家智能摄像机 云台版",
+    "price":"199元"
+  }
+]

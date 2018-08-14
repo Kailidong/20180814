@@ -1,0 +1,52 @@
+[
+  {
+    "title": "手机 电话卡",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "电视 盒子",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "笔记本 平板",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "家电 插线板",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "出行 穿戴",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "智能 路由器",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "电源 配件",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "个护 儿童",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "耳机 音箱",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  },
+  {
+    "title": "生活 箱包",
+    "icon": "",
+    "content": [{"name": "","img": ""},{"name": "","img": ""}]
+  }
+]

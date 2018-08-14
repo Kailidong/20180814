@@ -1,0 +1,38 @@
+[
+  {
+    "flag":"",
+    "img":"img/banner_nav/pingbanok.png",
+    "name":"小米平板",
+    "price":"1099元起"
+  },
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/xinbijiben.png",
+    "name":"小米游戏本 8代",
+    "price":"6699元起"
+  },
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/WechatIMG603.png",
+    "name":"小米游戏本15.6\" GTX版",
+    "price":"6299元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/320x220youxichuantu.png",
+    "name":"米家游戏本",
+    "price":"5999元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/WechatIMG603.png",
+    "name":"小米笔记本 Pro",
+    "price":"5599元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/bijiben32012.5.jpg",
+    "name":"小米笔记本 Air 系列",
+    "price":"3599元起"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/pc-320-220-mi8.png",
+    "name":"小米8",
+    "price":"2699元起"
+  },
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/pc-320-220-mi8se.png",
+    "name":"小米8 SE",
+    "price":"1799元起"
+  },
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/max3-320-220.png",
+    "name":"小米Max 3",
+    "price":"1699元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/mix2s320-220white.png",
+    "name":"小米MIX 2S",
+    "price":"3299元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/mix2320-220.png",
+    "name":"小米MIX 2",
+    "price":"2599元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/32022012085.jpg",
+    "name":"小米6X",
+    "price":"1399元起"
+  }
+]

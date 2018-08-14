@@ -1,0 +1,26 @@
+[
+  {
+    "name":"路由器",
+    "img":"img/inter/luyouqi4_80.jpg"
+  },
+  {
+    "name":"对讲机",
+    "img":"img/inter/duijiangji80.jpg"
+  },
+  {
+    "name":"智能家庭",
+    "img":"img/inter/zhinengjiating80.jpg"
+  },
+  {
+    "name":"无人机",
+    "img":"img/inter/wurenji80.jpg"
+  },
+  {
+    "name":"摄像机",
+    "img":"img/inter/camera-head-80.jpg"
+  },
+  {
+    "name":"照相机",
+    "img":"img/inter/camera-small-80.jpg"
+  }
+]

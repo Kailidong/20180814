@@ -1,0 +1,38 @@
+[
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/75.png",
+    "name":"小米电视4 75英寸",
+    "price":"8999元"
+  },
+  {
+    "flag":"热卖",
+    "img":"img/banner_nav/32.png",
+    "name":"小米电视4A 32英寸",
+    "price":"899元"
+  },
+  {
+    "flag":"新品",
+    "img":"img/banner_nav/4a43.png",
+    "name":"小米电视4A 43英寸青春版",
+    "price":"1499元"
+  },
+  {
+    "flag":"热卖",
+    "img":"img/banner_nav/50.png",
+    "name":"米家电视4A 50英寸",
+    "price":"1999元起"
+  },
+  {
+    "flag":"热卖",
+    "img":"img/banner_nav/4a55.png",
+    "name":"小米电视4A 55英寸",
+    "price":"2399元起"
+  },
+  {
+    "flag":"",
+    "img":"img/banner_nav/4a65555.png",
+    "name":"查看全部",
+    "price":"小米电视"
+  }
+]
